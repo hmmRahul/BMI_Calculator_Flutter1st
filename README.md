@@ -4,7 +4,7 @@
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## ** Try this App Now ** 😄
+## Try this App Now 😄
 Downlode this App from Google Drive [Link.](https://drive.google.com/file/d/10EZJucDXkDY3UNjkc2cGZletIJ8vX0jp/view?usp=sharing)
 
 ## My Learnings 🎯
